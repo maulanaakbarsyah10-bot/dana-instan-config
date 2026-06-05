@@ -1,0 +1,18 @@
+{
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "native_enabled": true,
+  "app_open_enabled": true,
+  "maintenance_mode": false,
+  "interstitial_click_interval": 3,
+
+  "admob_banner_id": "ca-app-pub-1256438666006661/2471421132",
+  "admob_interstitial_id": "ca-app-pub-1256438666006661/6442455736",
+  "admob_native_id": "ca-app-pub-1256438666006661/5728139862",
+  "admob_app_open_id": "ca-app-pub-1256438666006661/1158339465",
+
+  "meta_banner_id": "2417653322093885_2417653442093873",
+  "meta_interstitial_id": "2417653322093885_2417653448760539",
+  "meta_native_id": "2417653322093885_2417653452093872"
+}
