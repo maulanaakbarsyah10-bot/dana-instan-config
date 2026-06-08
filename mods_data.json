@@ -4,26 +4,26 @@
     "name": "Bus Jetbus 3+ SDD Voyager",
     "category": "Bus",
     "creator": "MD Creation",
-    "size": "28.5 MB",
+    "size": "68.5 MB",
     "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&auto=format&fit=crop",
-    "downloadUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/vehicles/jb3_voyager.bussidmod",
+    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=1O5f5Npxmz3dltZW9XCLYlIt1YzCdyZdy&export=download",
     "liveries": [
       {
-        "name": "Sudiro Tungga Jaya",
-        "url": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/liveries/jb3_voyager_sudiro.png",
-        "imageUrl": "https://ia600505.us.archive.org/14/items/livery-tam/ss%20tam.jpeg",
+        "name": "Trans Kuning",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=18lDASki8m4GQqIEaSwjxrT9Jyc5cbDuk&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=18lDASki8m4GQqIEaSwjxrT9Jyc5cbDuk&export=download",
         "size": "4.2 MB"
       },
       {
-        "name": "Harapan Jaya Luxury",
-        "url": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/liveries/sr2_harapan_jaya.png",
-        "imageUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/12/29/2751523540.jpg",
+        "name": "Trans Hijau",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_kSPA2wS-6s3Ss4zh_SZ1B8WiTl-AMuE&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_kSPA2wS-6s3Ss4zh_SZ1B8WiTl-AMuE&export=download",
         "size": "3.5 MB"
       },
       {
-        "name": "TAM SG Skylander",
-        "url": "https://ia600505.us.archive.org/14/items/livery-tam/livery%20tam.jpeg",
-        "imageUrl": "https://ia600505.us.archive.org/14/items/livery-tam/ss%20tam.jpeg",
+        "name": "Trans Biru",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1OYjDgZn1qpFf2pedZ-sLPT1vBxBqSagl&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1OYjDgZn1qpFf2pedZ-sLPT1vBxBqSagl&export=download",
         "size": "9.1 MB"
       }
     ]
@@ -33,44 +33,56 @@
     "name": "Bus Jetbus 5 SHD Scania",
     "category": "Bus",
     "creator": "Ztom",
-    "size": "26.4 MB",
+    "size": "69.4 MB",
     "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
-    "downloadUrl": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/mods/jb5_shd_scania.bussidmod",
+    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=1flxfzNMl_xSxKjA9cB_otEDmFQxH85U7&export=download",
     "liveries": [
       {
-        "name": "Tunggal Jaya - Tuan Muda (Viral)",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_tunggaljaya_tuanmuda.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "Kencana",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1Iy_vVn9OVQNvTpBc9FBvn72-Drp4nI8t&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Iy_vVn9OVQNvTpBc9FBvn72-Drp4nI8t&export=download",
         "size": "4.5 MB"
       },
       {
-        "name": "Tunggal Jaya - Kids Panda",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_tunggaljaya_kidspanda.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "168 Trans Biru",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_2CKQLAOq1zrSwZOvumuMXIjRU890-1b&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_2CKQLAOq1zrSwZOvumuMXIjRU890-1b&export=download",
         "size": "4.3 MB"
       },
       {
-        "name": "PO Haryanto (Wayang)",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_haryanto_wayang.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "27 Trans Kuning",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1KSet6eCxDfpxlSQeSyvcsO2hVb0P0NIP&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1KSet6eCxDfpxlSQeSyvcsO2hVb0P0NIP&export=download",
         "size": "4.6 MB"
       },
       {
-        "name": "Rosalia Indah (Double Glass Style)",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_rosaliaindah.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "Bus Agra Mas",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1XtlM_EvbXK8R_xUMW-vYYmSiXRaWVahv&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1XtlM_EvbXK8R_xUMW-vYYmSiXRaWVahv&export=download",
         "size": "4.1 MB"
       },
       {
-        "name": "Sudiro Tungga Jaya (STJ - Draka)",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_stj_draka.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "Garuda Mas",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1rSGBpMUC2PN-XzflZBK_1vxbIIX_GDgP&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1rSGBpMUC2PN-XzflZBK_1vxbIIX_GDgP&export=download",
         "size": "4.4 MB"
       },
       {
-        "name": "Sinar Jaya (Elegant Grey)",
-        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_sinarjaya_grey.png",
-        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "name": "Gunung Harta",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_74RTm6YDT6H719uSgO76q_VFlHVspq6&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_74RTm6YDT6H719uSgO76q_VFlHVspq6&export=download",
+        "size": "4.0 MB"
+      },
+      {
+        "name": "Harapan Jaya",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1Sei6_jPjIe-bC2Tz1ZkfU-hD8IYEU4pD&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Sei6_jPjIe-bC2Tz1ZkfU-hD8IYEU4pD&export=download",
+        "size": "4.0 MB"
+      },
+      {
+        "name": "Juragan 99",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=14irOQ3DAVKZbmp8iyxXxM0IOcjMTGHZu&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=14irOQ3DAVKZbmp8iyxXxM0IOcjMTGHZu&export=download",
         "size": "4.0 MB"
       }
     ]
