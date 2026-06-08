@@ -131,27 +131,35 @@
     "downloadUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/vehicles/pajero_2024.bussidmod"
   },
   {
-    "id": "motor_ninja_zx25r",
-    "name": "Kawasaki Ninja ZX-25R Red-Black",
-    "category": "Motorcycle",
-    "creator": "RiderMod",
-    "size": "9.1 MB",
-    "imageUrl": "https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?w=600&auto=format&fit=crop",
-    "downloadUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/vehicles/ninja_zx25r.bussidmod"
-  },
-  {
-    "id": "bus_sr2_xhd_tronton",
-    "name": "Bus Laksana SR2 XHD Prime Tronton",
+    "id": "SR3",
+    "name": "NPM SR3",
     "category": "Bus",
-    "creator": "WSP Mods",
-    "size": "34.1 MB",
-    "imageUrl": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2023/12/29/2751523540.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/vehicles/sr2_tronton.bussidmod",
+    "creator": "npm Mod",
+    "size": "72.1 MB",
+    "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=169zCcr1FqTrUj7iAnlof6QQ0wSZaEq5q&export=download",
+    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=169zCcr1FqTrUj7iAnlof6QQ0wSZaEq5q&export=download"
     "liveries": [
       {
         "name": "Harapan Jaya",
-        "url": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/liveries/sr2_harapan_jaya.png",
-        "imageUrl": "https://raw.githubusercontent.com/adlerstudio/bussid-mods/main/liveries/sr2_harapan_jaya.png",
+        "url": "https://drive.google.com/file/d/1shiUzJhs5Zeb-D7y0AKRXu72yZ9-TqQg/view",
+        "imageUrl": "https://drive.google.com/file/d/1shiUzJhs5Zeb-D7y0AKRXu72yZ9-TqQg/view",
+        "size": "3.5 MB"
+      }
+    ]
+  },
+  {
+    "id": "HJ SR3",
+    "name": "Harapan Jaya SR3",
+    "category": "Bus",
+    "creator": "WSP Mods",
+    "size": "65.1 MB",
+    "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1CdCF4z1DX-1VzVCj55_Q7RsO3rWAdSwj&export=download",
+    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=13-Qyt1S5R241eHudkdZzNFYa7elDtsFB&export=download",
+    "liveries": [
+      {
+        "name": "Harapan Jaya",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1vzKcWWSKs5OcKp2xB9Ll0CE_LAeMSP8C&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1vzKcWWSKs5OcKp2xB9Ll0CE_LAeMSP8C&export=download",
         "size": "3.5 MB"
       }
     ]
