@@ -32,6 +32,53 @@
     ]
   },
   {
+    "id": "bus_jb5_shd_scania",
+    "name": "Bus Jetbus 5 SHD Scania",
+    "category": "Bus",
+    "creator": "Ztom",
+    "size": "26.4 MB",
+    "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+    "downloadUrl": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/mods/jb5_shd_scania.bussidmod",
+    "liveries": [
+      {
+        "name": "Tunggal Jaya - Tuan Muda (Viral)",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_tunggaljaya_tuanmuda.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.5 MB"
+      },
+      {
+        "name": "Tunggal Jaya - Kids Panda",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_tunggaljaya_kidspanda.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.3 MB"
+      },
+      {
+        "name": "PO Haryanto (Wayang)",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_haryanto_wayang.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.6 MB"
+      },
+      {
+        "name": "Rosalia Indah (Double Glass Style)",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_rosaliaindah.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.1 MB"
+      },
+      {
+        "name": "Sudiro Tungga Jaya (STJ - Draka)",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_stj_draka.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.4 MB"
+      },
+      {
+        "name": "Sinar Jaya (Elegant Grey)",
+        "url": "https://raw.githubusercontent.com/maulanaakbarsyah10-bot/dana-instan-config/main/liveries/jb5_sinarjaya_grey.png",
+        "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
+        "size": "4.0 MB"
+      }
+    ]
+  },
+  {
     "id": "truck_canter_chili",
     "name": "Truck Canter cabe Full Anim",
     "category": "Truck",
