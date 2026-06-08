@@ -1,0 +1,18 @@
+{
+  "show_interstitial": true,
+  "show_rewarded": true,
+  "show_native": true,
+  "show_banner": true,
+  "ad_network": "admob",
+  "backup_network": "meta",
+  "interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "meta_interstitial_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "meta_rewarded_unit_id": "VID_HD_16_9_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+  "meta_native_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+  "meta_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "native_interval": 10,
+  "interstitial_interval": 3
+}
