@@ -2,7 +2,7 @@
   {
     "id": "bus_jb3_voyager",
     "name": "Bus Jetbus 3+ SDD Voyager",
-    "category": "Bus",
+    "category": "JETBUS 3",
     "creator": "MD Creation",
     "size": "68.5 MB",
     "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&auto=format&fit=crop",
@@ -31,7 +31,7 @@
   {
     "id": "bus_jb5_shd_scania",
     "name": "Bus Jetbus 5 SHD Scania",
-    "category": "Bus",
+    "category": "BUS SCANIA",
     "creator": "Ztom",
     "size": "69.4 MB",
     "imageUrl": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?w=600&auto=format&fit=crop",
@@ -133,7 +133,7 @@
   {
     "id": "SR3",
     "name": "NPM SR3",
-    "category": "Bus",
+    "category": "BUS SR3",
     "creator": "npm Mod",
     "size": "72.1 MB",
     "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1tYXrWtjpnaNp_WOqNAthbCzjoeSF7LKB&export=download",
@@ -150,7 +150,7 @@
   {
     "id": "HJ SR3",
     "name": "Harapan Jaya SR3",
-    "category": "Bus",
+    "category": "BUS SR3",
     "creator": "WSP Mods",
     "size": "65.1 MB",
     "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1CdCF4z1DX-1VzVCj55_Q7RsO3rWAdSwj&export=download",
@@ -178,6 +178,23 @@
         "url": "https://ia600505.us.archive.org/14/items/livery-tam/livery%20tam.jpeg",
         "imageUrl": "https://ia600505.us.archive.org/14/items/livery-tam/ss%20tam.jpeg",
         "size": "9.1 MB"
+      }
+    ]
+  },
+  {
+    "id": "SR 3",
+    "name": "PO Hariyanto SR3",
+    "category": "BUS SR3",
+    "creator": "Mod",
+    "size": "67.1 MB",
+    "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Fa8mCN9tNtF-XG68tEkDvdL-vwtswXCp&export=download",
+    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=1eYAi9SyjAG1rclBYYiql46jYj9wCdamY&export=download",
+    "liveries": [
+      {
+        "name": "PO Hariyanto",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1hTPB454Vs2N8wgswED7vBrrrp8B-mDoV&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1hTPB454Vs2N8wgswED7vBrrrp8B-mDoV&export=download",
+        "size": "3.7 MB"
       }
     ]
   }
