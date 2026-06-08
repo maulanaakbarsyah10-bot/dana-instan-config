@@ -13,6 +13,6 @@
   "meta_native_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
   "meta_banner_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "native_interval": 10,
+  "native_interval": 8,
   "interstitial_interval": 3
 }
