@@ -367,5 +367,22 @@
         "size": "5.2 MB"
       }
     ]
+  },
+  {
+    "id": "r25",
+    "name": "Livery Winspector",
+    "category": "Jetbus 3 Livery",
+    "creator": "mod livery",
+    "size": "68.4 MB",
+    "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1R9eJFlyFJ6Wvt2KlUT5PXi2fGUcAl50q&export=download",
+    "downloadUrl": "",
+    "liveries": [
+      {
+        "name": "Winspector xhd Jb3",
+        "url": "https://drive.usercontent.google.com/u/0/uc?id=1R9eJFlyFJ6Wvt2KlUT5PXi2fGUcAl50q&export=download",
+        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1R9eJFlyFJ6Wvt2KlUT5PXi2fGUcAl50q&export=download",
+        "size": "2.9 MB"
+      }
+    ]
   }
 ]
