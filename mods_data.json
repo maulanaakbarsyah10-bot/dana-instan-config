@@ -1,32 +1,12 @@
 [
   {
-    "id": "bus_jb3_voyager",
-    "name": "Bus Jetbus 3+ SDD Voyager",
-    "category": "JETBUS 3",
-    "creator": "MD Creation",
+    "id": "truk",
+    "name": "Canter New Wahyu Abadi Terpal Segitiga",
+    "category": "Truck",
+    "creator": "wahyu",
     "size": "68.5 MB",
-    "imageUrl": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&auto=format&fit=crop",
-    "downloadUrl": "https://drive.usercontent.google.com/u/0/uc?id=1O5f5Npxmz3dltZW9XCLYlIt1YzCdyZdy&export=download",
-    "liveries": [
-      {
-        "name": "Trans Kuning",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=18lDASki8m4GQqIEaSwjxrT9Jyc5cbDuk&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=18lDASki8m4GQqIEaSwjxrT9Jyc5cbDuk&export=download",
-        "size": "4.2 MB"
-      },
-      {
-        "name": "Trans Hijau",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_kSPA2wS-6s3Ss4zh_SZ1B8WiTl-AMuE&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_kSPA2wS-6s3Ss4zh_SZ1B8WiTl-AMuE&export=download",
-        "size": "3.5 MB"
-      },
-      {
-        "name": "Trans Biru",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1OYjDgZn1qpFf2pedZ-sLPT1vBxBqSagl&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1OYjDgZn1qpFf2pedZ-sLPT1vBxBqSagl&export=download",
-        "size": "9.1 MB"
-      }
-    ]
+    "imageUrl": "https://cdn.bussidseratusmilyar.com/images/6a461d106aa4e_1782979856.jpeg",
+    "downloadUrl": "https://cdn.bussidseratusmilyar.com/mods/6a461d10c26e8_1782979856.bussidmod"
   },
   {
     "id": "bus_jb5_shd_scania",
@@ -42,48 +22,6 @@
         "url": "https://drive.usercontent.google.com/u/0/uc?id=1Iy_vVn9OVQNvTpBc9FBvn72-Drp4nI8t&export=download",
         "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Iy_vVn9OVQNvTpBc9FBvn72-Drp4nI8t&export=download",
         "size": "4.5 MB"
-      },
-      {
-        "name": "168 Trans Biru",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_2CKQLAOq1zrSwZOvumuMXIjRU890-1b&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_2CKQLAOq1zrSwZOvumuMXIjRU890-1b&export=download",
-        "size": "4.3 MB"
-      },
-      {
-        "name": "27 Trans Kuning",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1KSet6eCxDfpxlSQeSyvcsO2hVb0P0NIP&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1KSet6eCxDfpxlSQeSyvcsO2hVb0P0NIP&export=download",
-        "size": "4.6 MB"
-      },
-      {
-        "name": "Bus Agra Mas",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1XtlM_EvbXK8R_xUMW-vYYmSiXRaWVahv&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1XtlM_EvbXK8R_xUMW-vYYmSiXRaWVahv&export=download",
-        "size": "4.1 MB"
-      },
-      {
-        "name": "Garuda Mas",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1rSGBpMUC2PN-XzflZBK_1vxbIIX_GDgP&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1rSGBpMUC2PN-XzflZBK_1vxbIIX_GDgP&export=download",
-        "size": "4.4 MB"
-      },
-      {
-        "name": "Gunung Harta",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1_74RTm6YDT6H719uSgO76q_VFlHVspq6&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1_74RTm6YDT6H719uSgO76q_VFlHVspq6&export=download",
-        "size": "4.0 MB"
-      },
-      {
-        "name": "Harapan Jaya",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=1Sei6_jPjIe-bC2Tz1ZkfU-hD8IYEU4pD&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=1Sei6_jPjIe-bC2Tz1ZkfU-hD8IYEU4pD&export=download",
-        "size": "4.0 MB"
-      },
-      {
-        "name": "Juragan 99",
-        "url": "https://drive.usercontent.google.com/u/0/uc?id=14irOQ3DAVKZbmp8iyxXxM0IOcjMTGHZu&export=download",
-        "imageUrl": "https://drive.usercontent.google.com/u/0/uc?id=14irOQ3DAVKZbmp8iyxXxM0IOcjMTGHZu&export=download",
-        "size": "4.0 MB"
       }
     ]
   },
